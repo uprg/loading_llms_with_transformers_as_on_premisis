@@ -32,18 +32,6 @@ with torch.no_grad():
     print(tokenizer.decode(token_ids=output[0], skip_special_tokens=True).split("\n"))
 
 
-for i in range(5):
-    print(i)
-    
-for i in range(10):
-    print(i)
-
-for i in range(15):
-    print(i)
-
-
-for i in range(20):
-    print(i)
 
 
 
