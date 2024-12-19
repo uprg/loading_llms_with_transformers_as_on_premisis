@@ -33,8 +33,6 @@ with torch.no_grad():
 
 
 
-for i in range(10):
-    print(i)
 
 
 
